@@ -6,10 +6,6 @@ O projeto foi construído do zero com foco em **arquitetura de código limpo (DR
 
 ---
 
-## 📸 Demonstração Visual
-
-![Interface do Aplicativo](https://github.com/seu-usuario/seu-repositorio/raw/main/sua-imagem.png)
-
 ---
 
 ## 🚀 Principais Funcionalidades e Diferenciais
